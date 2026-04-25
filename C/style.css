@@ -51,7 +51,7 @@ button{margin-top:18px;padding:12px 26px;background:#8c3a10;border:0;color:#fff;
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Poppins', sans-serif; /* 👈 ini penting */
+    font-family: 'Poppins', sans-serif !important; /* 👈 ini penting */
 }
 
 .warning-box {
@@ -59,7 +59,7 @@ button{margin-top:18px;padding:12px 26px;background:#8c3a10;border:0;color:#fff;
     padding: 30px;
     border-radius: 12px;
     max-width: 300px;
-    font-family: 'Poppins', sans-serif; /* biar konsisten */
+    font-family: 'Poppins', sans-serif !important; /* biar konsisten */
 }
 
 .warning-box h2 {
